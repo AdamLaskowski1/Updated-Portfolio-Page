@@ -1,0 +1,63 @@
+#headerName {
+    color: seashell;
+    padding: 10px;
+}
+
+#card-text {
+    color: rgb(5, 5, 49);
+    font-family: 'IBM Plex Serif', serif;
+}
+
+p {
+    color: rgb(5, 5, 49);
+    font-family: 'IBM Plex Serif', serif;
+    line-height: 1.75em;
+}
+
+h2 {
+    padding-top: 15px;
+    color: rgb(5, 5, 49);
+    font-family: 'IBM Plex Serif', serif;
+}
+
+h3 {
+    padding-top: 15px;
+    color: rgb(5, 5, 49);
+    font-family: 'IBM Plex Serif', serif;
+}
+
+.nav-link {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+.form-control {
+    size: "50";
+}
+
+#aboutMe-picture {
+    width: 200px;
+    height: 250px;
+    padding: 10px;
+    margin: 20px;
+    float: left;
+}
+
+#aboutMe-text {
+    font-size: 20px;
+    padding: 10px;
+    margin: 20px;
+}
+
+#SocialMedia {
+    padding: 10px;
+    margin: 20px;
+    font-size: large;
+}
+
+.portfolioText {
+    padding-bottom: 20px;
+}
