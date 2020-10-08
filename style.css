@@ -61,3 +61,47 @@ h3 {
 .portfolioText {
     padding-bottom: 20px;
 }
+
+#myEmail {
+    margin-left: 30px;
+}
+
+#myPhone {
+    margin-left: 30px;
+}
+
+#background {
+    background-image: url("images/background.png");
+}
+
+.border {
+    margin: 30px;
+    padding: 20px;
+}
+
+#card-text {
+    text-align: center;
+    font-weight: bold;
+}
+
+#placeholder-picture {
+    height: 200px;
+    width: 250px;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+}
+
+#myEmail {
+    text-align: center;
+}
+
+#myPhone {
+    text-align: center;
+}
+
+#SocialMedia {
+    color: navy;
+    font-style: italic;
+    text-decoration: underline;
+}
